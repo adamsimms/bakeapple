@@ -24,9 +24,9 @@ Replace `[phone]` before sending.
 ## Specifically (main text box)
 
 ```
-Glowberry — feasibility + rough quote for one translucent glowing bakeapple sculpture, ~6 ft tall.
+Bakeapple — feasibility + rough quote for one translucent glowing bakeapple sculpture, ~6 ft tall.
 
-I am an artist based in Montreal developing Glowberry: a ripe bakeapple (cloudberry) as a pilgrimage object with soft heartbeat / breathing internal glow. Tone: awe + humor + uncanny presence. Touchable, walk-around, not enterable. Possible outdoor siting in Newfoundland (Avalon / Fogo / Bonavista-class coastal plateau) TBD. This is a feasibility + ballpark request while I pursue funding — not a fixed PO yet.
+I am an artist based in Montreal developing Bakeapple: a ripe bakeapple (cloudberry) as a pilgrimage object with soft heartbeat / breathing internal glow. Tone: awe + humor + uncanny presence. Touchable, walk-around, not enterable. Possible outdoor siting in Newfoundland (Avalon / Fogo / Bonavista-class coastal plateau) TBD. This is a feasibility + ballpark request while I pursue funding — not a fixed PO yet.
 
 Keeping this simple: please focus on a single size — about 6 ft (≈1.8 m) overall height, scaled from a 500 mm manifold master mesh.
 
@@ -46,7 +46,7 @@ PLEASE ADVISE
 FILES
 Short PDF brief + reference stills attached. Mesh: drupelets-only bakeapple, 500 mm master (meters), stem at −Z; scale ≈3.66× for 6 ft. Full STL via WeTransfer on request.
 
-Open notes: https://github.com/adamsimms/glowberry
+Open notes: https://github.com/adamsimms/bakeapple
 
 Thank you — happy to talk once you’ve glanced at the files.
 Adam Simms · hello@adamsimms.xyz

@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use or reference this project, please cite it as below."
 type: software
-title: Glowberry
+title: Bakeapple
 abstract: >-
   Monumental ripe bakeapple (cloudberry) pilgrimage sculpture — concept,
   fabrication notes, and systems for a glowing outdoor landmark in Newfoundland.
@@ -12,8 +12,8 @@ authors:
     orcid: "https://orcid.org/0009-0008-8721-0241"
 date-released: "2026-07-23"
 version: "0.1.0"
-url: "https://github.com/adamsimms/glowberry"
-repository-code: "https://github.com/adamsimms/glowberry"
+url: "https://github.com/adamsimms/bakeapple"
+repository-code: "https://github.com/adamsimms/bakeapple"
 license:
   - CC-BY-NC-4.0
   - MIT

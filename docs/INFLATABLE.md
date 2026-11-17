@@ -2,11 +2,11 @@
 
 **Out since 2026-08-26** ([`BRIEF.md`](BRIEF.md)). Kept as notes only; not a live track.
 
-Separate from the permanent **Glowberry** hard sculpture (translucent FRP/PETG shell). This is a **Choi Jeong-hwa–lineage** piece: soft, loud, temporary, photo-magnetic — a **summer proof of concept** to test scale, humor, and site before (or beside) the hard sculpture.
+Separate from the permanent **Bakeapple** hard sculpture (translucent FRP/PETG shell). This is a **Choi Jeong-hwa–lineage** piece: soft, loud, temporary, photo-magnetic — a **summer proof of concept** to test scale, humor, and site before (or beside) the hard sculpture.
 
 | Companion | |
 |-----------|--|
-| [`BRIEF.md`](BRIEF.md) | Permanent Glowberry (locked) |
+| [`BRIEF.md`](BRIEF.md) | Permanent Bakeapple (locked) |
 | [`RESEARCH_sculpture_precedents.md`](RESEARCH_sculpture_precedents.md) | Choi + other fruit precedents |
 | Mesh | Same production STL when published (local for now) → pattern source |
 
@@ -18,9 +18,9 @@ Separate from the permanent **Glowberry** hard sculpture (translucent FRP/PETG s
 |--|--|
 | **Role** | Ephemeral summer install / festival / plaza / shore day piece |
 | **Job** | Prove pilgrimage humor + scale cheaply; gather photos & site feedback |
-| **Not** | Permanent NL landmark; not a substitute for hard Glowberry |
+| **Not** | Permanent NL landmark; not a substitute for hard Bakeapple |
 | **Kinship** | Choi Jeong-hwa inflatable fruit / *Fruit Tree* — pop, synthetic joy, temporary monument |
-| **Tone** | More playful / kitsch-adjacent than hard Glowberry; still *your* berry |
+| **Tone** | More playful / kitsch-adjacent than hard Bakeapple; still *your* berry |
 
 **Success looks like:** people walk up, laugh, photograph, sit near; you learn wind, anchoring, permissions, and whether the form reads as bakeapple at 6–12 ft.
 
@@ -35,7 +35,7 @@ Two common systems:
 | **Continuous blower (open / leaky by design)** | Small centrifugal **fan** runs 24/7; air escapes at seams/vents; form stays plump | Outdoor art, event fruit, Choi-style pieces — **default for this track** |
 | **Sealed airtight bladder** | Inflate once; hold pressure; occasional top-up | Balloons, some boats — harder at organic berry scale; less “alive” |
 
-**Default for Glowberry Inflatable:** continuous-air shell + one (or two) quiet outdoor blowers at the stem/base.
+**Default for Bakeapple Inflatable:** continuous-air shell + one (or two) quiet outdoor blowers at the stem/base.
 
 ```text
 [AC or generator] ──► [blower(s)] ──► [air sock / duct] ──► [stem / base inlet]
@@ -60,7 +60,7 @@ Optional night: cheap internal LED string / flood in the base → soft glow thro
 
 **Avoid as primary:** uncoated cotton, cheap party-balloon foil, single-wall party bounce-house scrap without UV.
 
-**Color:** match Glowberry amber → vermillion; solid dye-sub print or solid orange PVC + darker printed drupelet seams if budget allows.
+**Color:** match Bakeapple amber → vermillion; solid dye-sub print or solid orange PVC + darker printed drupelet seams if budget allows.
 
 ---
 
@@ -155,9 +155,9 @@ Cheaper than Tier C FRP; not free — pattern complexity of drupelets drives cos
 
 ---
 
-## 10. Relationship to Glowberry (hard)
+## 10. Relationship to Bakeapple (hard)
 
-| | Inflatable track | Glowberry (hard) |
+| | Inflatable track | Bakeapple (hard) |
 |--|------------------|------------------|
 | Material | Soft PVC / nylon + air | Translucent FRP / PETG |
 | Maker | Inflatable shop / seamstress / welder | Studio Artefact |

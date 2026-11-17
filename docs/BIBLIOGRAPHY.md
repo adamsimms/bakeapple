@@ -1,22 +1,22 @@
-# Glowberry: bibliography
+# Bakeapple: bibliography
 
 Generated from the Zotero collection [3Z9ZID5J](https://www.zotero.org/adamsimms/collections/3Z9ZID5J) by adamsimms/studio scripts/zotero/build-bibliography.mjs. Do not edit; change the items or their notes in Zotero and rebuild.
 
-83 sources.
+84 sources.
 
 ### adcockJamesTurrellArt1990
 
 Adcock, Craig (1990). *James Turrell: The Art of Light and Space*. University of California Press.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/E6JFHQKF) · `zotero://select/library/items/E6JFHQKF`
-- Tags: critical-research, glowberry, light-art, perception, phenomenology, round-2, tier-2, turrell
+- Tags: bakeapple, critical-research, light-art, perception, phenomenology, round-2, tier-2, turrell
 
 ### applinEccentricObjectsRethinking2012
 
 Applin, Jo (2012). *Eccentric Objects: Rethinking Sculpture in 1960s America*. Yale University Press.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/UCBUDITF) · `zotero://select/library/items/UCBUDITF`
-- Tags: body, critical-research, glowberry, kusama, oldenburg, round-2, scale, sculpture, soft-sculpture, tier-1
+- Tags: bakeapple, body, critical-research, kusama, oldenburg, round-2, scale, sculpture, soft-sculpture, tier-1
 
 ### applinStrangeEncountersClaes2011
 
@@ -24,14 +24,14 @@ Applin, Jo (2011). 'Strange Encounters': Claes Oldenburg's 'Proposed Colossal Mo
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/WGCP7ZU8) · `zotero://select/library/items/WGCP7ZU8`
 - DOI: https://doi.org/10.1111/j.1467-8365.2010.00849.x
-- Tags: critical-research, glowberry, humor, monument, oldenburg, round-2, scale, tier-1, uncanny
+- Tags: bakeapple, critical-research, humor, monument, oldenburg, round-2, scale, tier-1, uncanny
 
 ### applinYayoiKusamaInfinity2012
 
 Applin, Jo (2012). *Yayoi Kusama: Infinity Mirror Room — Phalli's Field*. Afterall Books / MIT Press.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/PNGRC8M5) · `zotero://select/library/items/PNGRC8M5`
-- Tags: body, critical-research, environment, glowberry, kusama, round-2, soft-sculpture, tier-1
+- Tags: bakeapple, body, critical-research, environment, kusama, round-2, soft-sculpture, tier-1
 
 ### bachelardPoeticsSpace1994a
 
@@ -39,14 +39,14 @@ Bachelard, Gaston (1994). *The Poetics of Space*. Beacon Press.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/88JYJ8LZ) · `zotero://select/library/items/88JYJ8LZ`
 - URL: https://concordiauniversity.on.worldcat.org/search/detail/28423776
-- Tags: body, concordia-library, critical-research, dreamberry, glowberry, light-art, optional, phenomenology, round-2, theme:exhibition-encounter, theme:machine-as-presence, theory, tier-2
+- Tags: bakeapple, body, concordia-library, critical-research, dreamberry, light-art, optional, phenomenology, round-2, theme:exhibition-encounter, theme:machine-as-presence, theory, tier-2
 
 ### bakhtinRabelaisHisWorld1984
 
 Bakhtin, Mikhail (1984). *Rabelais and His World*. Indiana University Press.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/3EJTM77P) · `zotero://select/library/items/3EJTM77P`
-- Tags: critical-research, glowberry, grotesque, humor, optional, round-2, scale, theory, tier-2
+- Tags: bakeapple, critical-research, grotesque, humor, optional, round-2, scale, theory, tier-2
 
 ### ballarinReplicasCulturalHeritage2018
 
@@ -67,7 +67,7 @@ Blake, Raymond B. (2020). Engineering Demographic Change: State-assisted Resettl
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/4NWSAJ34) · `zotero://select/library/items/4NWSAJ34`
 - URL: https://heritagenl.ca/wp-content/uploads/2020/05/13-Resettlement-Under-the-Smallwood-Administration.pdf
-- Tags: critical-research, glowberry, history, newfoundland, resettlement, round-2, tier-2
+- Tags: bakeapple, critical-research, history, newfoundland, resettlement, round-2, tier-2
 
 ### blanchetteTroisBeretsAteliers2020
 
@@ -94,7 +94,7 @@ Anon. (n.d.). *Claes Oldenburg: Paint Torch*.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/CHF5MB8C) · `zotero://select/library/items/CHF5MB8C`
 - URL: https://www.pafa.org/museum/exhibitions/paint-torch
-- Note: Glowberry preliminary bibliography (2026). 17. Oldenburg / van Bruggen — *Paint Torch* (PAFA, 2011) — institutional page Serious-art precedent already noted in project research: FRP food/tool Pop with internal LED glow — closest fabrication cousin for heartbeat flesh.
+- Note: Bakeapple preliminary bibliography (2026). 17. Oldenburg / van Bruggen — *Paint Torch* (PAFA, 2011) — institutional page Serious-art precedent already noted in project research: FRP food/tool Pop with internal LED glow — closest fabrication cousin for heartbeat flesh.
 
 ### ClaesOldenburgProjects
 
@@ -102,7 +102,7 @@ Anon. (n.d.). *Claes Oldenburg: Projects for Monuments*.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/HTFNXTH2) · `zotero://select/library/items/HTFNXTH2`
 - URL: https://mcachicago.org/exhibitions/1967/claes-oldenburg-projects
-- Note: Glowberry preliminary bibliography (2026). 14. Claes Oldenburg — *Proposals for Monuments and Buildings, 1965–69* (Big Table, 1969) Canonical theory-in-drawing for colossal everyday objects as anti-heroic monuments — humor that is still a public-art argument. Primary text for ...
+- Note: Bakeapple preliminary bibliography (2026). 14. Claes Oldenburg — *Proposals for Monuments and Buildings, 1965–69* (Big Table, 1969) Canonical theory-in-drawing for colossal everyday objects as anti-heroic monuments — humor that is still a public-art argument. Primary text for ...
 
 ### ClaesOldenburgSculptures
 
@@ -110,7 +110,7 @@ Anon. (n.d.). *Claes Oldenburg Sculptures, Bio, Ideas*.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/CFSG2IHH) · `zotero://select/library/items/CFSG2IHH`
 - URL: https://www.theartstory.org/artist/oldenburg-claes/
-- Note: Glowberry preliminary bibliography (2026). 15. The Art Story — “Claes Oldenburg” (survey essay) Clear language on reversing viewer/object scale (“shrinks the spectator”) and soft sculpture → body sensation — uncanny humor without needing mirror sublime.
+- Note: Bakeapple preliminary bibliography (2026). 15. The Art Story — “Claes Oldenburg” (survey essay) Clear language on reversing viewer/object scale (“shrinks the spectator”) and soft sculpture → body sensation — uncanny humor without needing mirror sublime.
 
 ### CoerciveGeographiesBiopower2023
 
@@ -118,7 +118,7 @@ Anon. (2023). Coercive Geographies: Biopower, Spatial Politics, and the Tourist.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/GMX9VYGL) · `zotero://select/library/items/GMX9VYGL`
 - DOI: https://doi.org/10.1177/23996544231194828
-- Tags: critical-research, destination-art, glowberry, naoshima, pilgrimage, round-2, spatial-politics, tier-2, tourism
+- Tags: bakeapple, critical-research, destination-art, naoshima, pilgrimage, round-2, spatial-politics, tier-2, tourism
 
 ### coteContentiousPoliticsResettlement2020
 
@@ -133,21 +133,21 @@ Côté, Isabelle; Pottie-Sherman, Yolande (Ed.) (2020). *Resettlement: Uprooting
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/PD83S2AH) · `zotero://select/library/items/PD83S2AH`
 - URL: https://memorialuniversitypress.ca/Books/R/Resettlement
-- Tags: critical-research, glowberry, newfoundland, place, resettlement, return, round-2, tier-2
+- Tags: bakeapple, critical-research, newfoundland, place, resettlement, return, round-2, tier-2
 
 ### crimpSerrasPublicSculpture1985
 
 Crimp, Douglas (1985). Serra's Public Sculpture: Redefining Site Specificity. *Richard Serra's Tilted Arc*.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/JEURAWSE) · `zotero://select/library/items/JEURAWSE`
-- Tags: critical-research, glowberry, public-art, round-2, serra, site-specificity, tier-1, tilted-arc
+- Tags: bakeapple, critical-research, public-art, round-2, serra, site-specificity, tier-1, tilted-arc
 
 ### deutscheEvictionsArtSpatial1996
 
 Deutsche, Rosalyn (1996). *Evictions: Art and Spatial Politics*. MIT Press.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/NGUM8KEA) · `zotero://select/library/items/NGUM8KEA`
-- Tags: critical-research, glowberry, public-art, round-2, site-specificity, spatial-politics, tier-1, tilted-arc
+- Tags: bakeapple, critical-research, public-art, round-2, site-specificity, spatial-politics, tier-1, tilted-arc
 
 ### doonanCloudberryConnectionsWilderness2016
 
@@ -180,7 +180,14 @@ Everett, Holly (2007). A welcoming wilderness: The role of wild berries in the c
 Favell, Adrian (2012). *Before and After Superflat: A Short History of Japanese Contemporary Art 1990–2011*. Blue Kingfisher.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/TFYT2ZXY) · `zotero://select/library/items/TFYT2ZXY`
-- Tags: art-world, critical-research, destination-art, glowberry, japan, naoshima, round-2, setouchi, tier-1
+- Tags: art-world, bakeapple, critical-research, destination-art, japan, naoshima, round-2, setouchi, tier-1
+
+### ferlandLabrador1876
+
+Ferland, Jean-Baptiste-Antoine (1876). Le Labrador. *Opuscules*, 35-181. Imprimerie A. Côté et Cie.
+
+- Zotero: [web](https://www.zotero.org/adamsimms/items/HB6Z4JWB) · `zotero://select/library/items/HB6Z4JWB`
+- URL: https://fr.wikisource.org/wiki/Page:Ferland_-_Opuscules,_1876.djvu/89
 
 ### gwamuriHighefficiencySolarpowered3D2016
 
@@ -200,7 +207,7 @@ Anon. (n.d.). *Happy Happy  Project : Fruit Tree*.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/F24VA5ZQ) · `zotero://select/library/items/F24VA5ZQ`
 - URL: https://bab18.bkkartbiennale.com/project/happy-happy-project-fruit-tree/
-- Note: Glowberry preliminary bibliography (2026). 10. Bangkok Art Biennale note — “Happy Happy Project : Fruit Tree” Curatorial framing of playfulness and menace in large soft Pop — maps to Glowberry’s locked tone (awe + humor + uncanny).
+- Note: Bakeapple preliminary bibliography (2026). 10. Bangkok Art Biennale note — “Happy Happy Project : Fruit Tree” Curatorial framing of playfulness and menace in large soft Pop — maps to Bakeapple’s locked tone (awe + humor + uncanny).
 
 ### heNovel3DImaging2017
 
@@ -208,7 +215,7 @@ He, Joe Q.; Harrison, Richard J.; Li, Bo (2017). A novel 3D imaging system for s
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/U9ST5MU3) · `zotero://select/library/items/U9ST5MU3`
 - DOI: https://doi.org/10.1186/s13007-017-0243-x
-- Tags: 3d-scanning, fruit, glowberry, method, phenotyping, strawberry
+- Tags: 3d-scanning, bakeapple, fruit, method, phenotyping, strawberry
 
 ### horneckerDesignVocabularyData2023
 
@@ -222,7 +229,7 @@ Anon. (n.d.). How to 3D Scan Fruit — Revopoint (structured-light tips). *Revop
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/YAU5GC95) · `zotero://select/library/items/YAU5GC95`
 - URL: https://www.revopoint3d.com/blogs/blog/how-to-3d-scan-fruit
-- Tags: 3d-scanning, fruit, glowberry, method, structured-light
+- Tags: 3d-scanning, bakeapple, fruit, method, structured-light
 
 ### jansenDataPhysicalizationSpecial2020
 
@@ -236,7 +243,7 @@ Anon. (n.d.). *The Japanese island that was saved by art*.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/PH9CKWR5) · `zotero://select/library/items/PH9CKWR5`
 - URL: https://www.bbc.com/travel/article/20250529-the-japanese-island-that-was-saved-by-art
-- Note: Glowberry preliminary bibliography (2026). 4. BBC Travel — “The Japanese island that was saved by art” (2025) Frames Naoshima as art-led destination / return narrative (depopulation ↔ pilgrimage tourism). Read alongside NL resettlement themes carefully — analogy, not equivalence.
+- Note: Bakeapple preliminary bibliography (2026). 4. BBC Travel — “The Japanese island that was saved by art” (2025) Frames Naoshima as art-led destination / return narrative (depopulation ↔ pilgrimage tourism). Read alongside NL resettlement themes carefully — analogy, not equivalence.
 
 ### karstLocalEcologicalKnowledge2010
 
@@ -244,8 +251,8 @@ Karst, Amanda (2010). Local Ecological Knowledge and Importance of Bakeapple (Ru
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/4YPQGCU3) · `zotero://select/library/items/4YPQGCU3`
 - URL: https://ojs.ethnobiology.org/index.php/ebl/article/view/28
-- Note: Glowberry research note (vault, 2026). Karst documents local ecological knowledge and cultural importance of bakeapple in a southeast Labrador Métis community, including exchange and household presence of the berry. This is a Labrador-specific Indigenous/Métis record—adjacent ...
-- Tags: bakeapple, critical-research, ethnobiology, glowberry, handle-with-care, labrador, metis, newfoundland, round-2, tier-2
+- Note: Bakeapple research note (vault, 2026). Karst documents local ecological knowledge and cultural importance of bakeapple in a southeast Labrador Métis community, including exchange and household presence of the berry. This is a Labrador-specific Indigenous/Métis record—adjacent ...
+- Tags: bakeapple, critical-research, ethnobiology, handle-with-care, labrador, metis, newfoundland, round-2, tier-2
 
 ### kraussSculptureExpandedField1979
 
@@ -253,7 +260,7 @@ Krauss, Rosalind (1979). Sculpture in the Expanded Field. *October*, 8, 30-44.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/LHHRT443) · `zotero://select/library/items/LHHRT443`
 - DOI: https://doi.org/10.2307/778224
-- Tags: critical-research, expanded-field, glowberry, october, round-2, sculpture, theory, tier-2
+- Tags: bakeapple, critical-research, expanded-field, october, round-2, sculpture, theory, tier-2
 
 ### kwonOnePlaceAnother1997
 
@@ -261,14 +268,14 @@ Kwon, Miwon (1997). One Place After Another: Notes on Site Specificity. *October
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/ISGR2DKN) · `zotero://select/library/items/ISGR2DKN`
 - DOI: https://doi.org/10.2307/778809
-- Tags: critical-research, glowberry, october, public-art, round-2, site-specificity, tier-1
+- Tags: bakeapple, critical-research, october, public-art, round-2, site-specificity, tier-1
 
 ### kwonOnePlaceAnother2002
 
 Kwon, Miwon (2002). *One Place After Another: Site-Specific Art and Locational Identity*. MIT Press.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/LEZPG283) · `zotero://select/library/items/LEZPG283`
-- Tags: critical-research, glowberry, pilgrimage, place, public-art, round-2, site-specificity, tier-1
+- Tags: bakeapple, critical-research, pilgrimage, place, public-art, round-2, site-specificity, tier-1
 
 ### latourMigrationLauraOu2011
 
@@ -283,7 +290,7 @@ Le Louëdec, Justin; Cielniak, Grzegorz (2023). *Key Point-based Orientation Est
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/IEFEZXL4) · `zotero://select/library/items/IEFEZXL4`
 - DOI: https://doi.org/10.1007/978-3-031-44137-0_13
-- Tags: computer-vision, fruit, glowberry, method, robotics, strawberry
+- Tags: bakeapple, computer-vision, fruit, method, robotics, strawberry
 
 ### LeoVillarealBUCKYBALL
 
@@ -297,14 +304,14 @@ Anon. (n.d.). Leo Villareal: BUCKYBALL. *Madison Square Park Conservancy*.
 Lippard, Lucy R. (1971). Eccentric Abstraction. *Changing: Essays in Art Criticism*, 98-111. E. P. Dutton.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/97T87MIV) · `zotero://select/library/items/97T87MIV`
-- Tags: body, critical-research, glowberry, kusama, round-2, sculpture, soft-sculpture, theory, tier-1
+- Tags: bakeapple, body, critical-research, kusama, round-2, sculpture, soft-sculpture, theory, tier-1
 
 ### looMovedStateForced2019
 
 Loo, Tina (2019). *Moved by the State: Forced Relocation and Making a Good Life in Postwar Canada*. UBC Press.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/HNFYTSNL) · `zotero://select/library/items/HNFYTSNL`
-- Tags: canada, critical-research, ethics, glowberry, newfoundland, resettlement, round-2, tier-2
+- Tags: bakeapple, canada, critical-research, ethics, newfoundland, resettlement, round-2, tier-2
 
 ### maityUrbanscape2024
 
@@ -312,7 +319,7 @@ Maity, Paresh (2024). Urbanscape. *Bengal Biennale*.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/BP7YY5FZ) · `zotero://select/library/items/BP7YY5FZ`
 - URL: https://bengalbiennale.com/exhibition/urbanscape/
-- Tags: critical-research, fruit, glowberry, maity, monumental-fruit, round-2, scale, tier-2
+- Tags: bakeapple, critical-research, fruit, maity, monumental-fruit, round-2, scale, tier-2
 
 ### McGillCIANXradia
 
@@ -320,7 +327,7 @@ Anon. (n.d.). McGill CIAN — Xradia micro-CT FAQ (external users). *McGill CIAN
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/XH6DVV8R) · `zotero://select/library/items/XH6DVV8R`
 - URL: https://www.mcgill.ca/cian/x-ray-microscopy/faq
-- Tags: contact, glowberry, method, micro-ct, montreal
+- Tags: bakeapple, contact, method, micro-ct, montreal
 
 ### McGillMuSIFECP3
 
@@ -328,7 +335,7 @@ Anon. (n.d.). McGill MuSIF / ECP3 — CT scanning for agri-food microstructure. 
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/8JEVB9I6) · `zotero://select/library/items/8JEVB9I6`
 - URL: https://www.mcgill.ca/ecp3/article/advanced-microscopy-agri-food-industry-better-products-faster-rd-stronger-quality-control
-- Tags: contact, glowberry, jam, method, micro-ct, montreal
+- Tags: bakeapple, contact, jam, method, micro-ct, montreal
 
 ### mikanowskiCloudGateTilted2012
 
@@ -343,7 +350,7 @@ Anon. (n.d.). *Moved by the State*. UBC Press.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/97WFKQQH) · `zotero://select/library/items/97WFKQQH`
 - URL: https://www.ubcpress.ca/moved-by-the-state
-- Note: Glowberry preliminary bibliography (2026). 26. Tina Loo — *Moved by the State: Forced Relocation and Making a Good Life in Postwar Canada* (UBC Press) Critical history of postwar relocation (incl. NL outports) as state “doing good” — useful ethical caution when using resettlem...
+- Note: Bakeapple preliminary bibliography (2026). 26. Tina Loo — *Moved by the State: Forced Relocation and Making a Good Life in Postwar Canada* (UBC Press) Critical history of postwar relocation (incl. NL outports) as state “doing good” — useful ethical caution when using resettlem...
 
 ### nathansonHistorySolarPower2021
 
@@ -357,7 +364,7 @@ Ni, Xueping; Li, Changying; Jiang, Huanyu; Takeda, Fumiomi (2021). Three-dimensi
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/7Q3FDL6W) · `zotero://select/library/items/7Q3FDL6W`
 - DOI: https://doi.org/10.1016/j.isprsjprs.2020.11.010
-- Tags: 3d-scanning, blueberry, computer-vision, fruit, glowberry, method, phenotyping, photogrammetry
+- Tags: 3d-scanning, bakeapple, blueberry, computer-vision, fruit, method, phenotyping, photogrammetry
 
 ### omohundroRoughFoodSeasons1994
 
@@ -371,7 +378,7 @@ Park, Soyang (2018). Modernity, Plastic Spectacle, and an Imperfect Utopia: A Cr
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/MGUF6IYN) · `zotero://select/library/items/MGUF6IYN`
 - DOI: https://doi.org/10.1353/ach.2018.0010
-- Tags: choi, critical-research, glowberry, kitsch, korea, pop, round-2, spectacle, tier-2
+- Tags: bakeapple, choi, critical-research, kitsch, korea, pop, round-2, spectacle, tier-2
 
 ### PhotoSculpture1991
 
@@ -385,7 +392,7 @@ Plummer-Fernandez, Matthew (n.d.). Digital Natives — Glitched realities 3D pri
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/25TYRB28) · `zotero://select/library/items/25TYRB28`
 - URL: https://www.creativeapplications.net/project/digital-natives-glitched-realities-3d-printed-in-colour-resin/
-- Tags: artist-reference, glowberry, plummer-fernandez, scan-algorithm-print
+- Tags: artist-reference, bakeapple, plummer-fernandez, scan-algorithm-print
 
 ### plummer-fernandezDigitalNativesMatthew
 
@@ -393,7 +400,7 @@ Plummer-Fernandez, Matthew (n.d.). Digital Natives — Matthew Plummer-Fernandez
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/BZH56SX2) · `zotero://select/library/items/BZH56SX2`
 - URL: https://www.dezeen.com/2012/10/12/digital-natives-by-matthew-plummer-fernandez/
-- Tags: 3d-printing, artist-reference, digital-natives, glowberry, plummer-fernandez, scan-algorithm-print
+- Tags: 3d-printing, artist-reference, bakeapple, digital-natives, plummer-fernandez, scan-algorithm-print
 
 ### plummer-fernandezMatthewPlummerFernandezArtist
 
@@ -401,7 +408,7 @@ Plummer-Fernandez, Matthew (n.d.). Matthew Plummer-Fernandez — artist site. *p
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/XWKD9LUF) · `zotero://select/library/items/XWKD9LUF`
 - URL: https://www.plummerfernandez.com/
-- Tags: 3d-printing, artist-reference, glowberry, plummer-fernandez
+- Tags: 3d-printing, artist-reference, bakeapple, plummer-fernandez
 
 ### PublicArt6
 
@@ -409,7 +416,7 @@ Anon. (n.d.). *Public Art #6: Choi Jeong Hwa’s “Fruits Tree”*.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/FTJXSWMM) · `zotero://select/library/items/FTJXSWMM`
 - URL: https://www.tokyoartbeat.com/en/articles/-/public-art-6-choi-jeong-hwa-fruit-tree
-- Note: Glowberry preliminary bibliography (2026). 8. Tokyo Art Beat — “Public Art #6: Choi Jeong Hwa’s ‘Fruits Tree’” Reads kitsch FRP fruit as intentionally inauthentic; coastal aging/peeling as part of meaning — strong for the inflatable/pop parallel track and for what Glowberry sh...
+- Note: Bakeapple preliminary bibliography (2026). 8. Tokyo Art Beat — “Public Art #6: Choi Jeong Hwa’s ‘Fruits Tree’” Reads kitsch FRP fruit as intentionally inauthentic; coastal aging/peeling as part of meaning — strong for the inflatable/pop parallel track and for what Bakeapple sh...
 
 ### quMakingArtIslands2022
 
@@ -417,7 +424,7 @@ Qu, Meng (2022). The Making of Art Islands: A Comparative Analysis of Translocal
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/JDCRY69J) · `zotero://select/library/items/JDCRY69J`
 - DOI: https://doi.org/10.24043/isj.175
-- Tags: critical-research, destination-art, glowberry, naoshima, pilgrimage, round-2, setouchi, tier-2, tourism
+- Tags: bakeapple, critical-research, destination-art, naoshima, pilgrimage, round-2, setouchi, tier-2, tourism
 
 ### RelocatedPilgrimageArtistic
 
@@ -425,7 +432,7 @@ Anon. (n.d.). Relocated Pilgrimage: An Artistic Via Dolorosa in the Heart of Ams
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/IIKMZGDE) · `zotero://select/library/items/IIKMZGDE`
 - URL: https://arrow.tudublin.ie/ijrtp/vol8/iss5/7
-- Note: Glowberry preliminary bibliography (2026). 29. Lieke Wijnia — “Relocated Pilgrimage,” *International Journal of Religious Tourism and Pilgrimage Contemporary art routes as secular/post-secular pilgrimage — language for beacon-without-church.
+- Note: Bakeapple preliminary bibliography (2026). 29. Lieke Wijnia — “Relocated Pilgrimage,” *International Journal of Religious Tourism and Pilgrimage Contemporary art routes as secular/post-secular pilgrimage — language for beacon-without-church.
 
 ### ResidenceDartistesEstNordEst2004
 
@@ -439,7 +446,7 @@ Anon. (2021). The Role of Civil Society Sector in the Development of Art-Driven 
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/CW3PI39B) · `zotero://select/library/items/CW3PI39B`
 - DOI: https://doi.org/10.3390/su132414061
-- Tags: benesse, critical-research, destination-art, glowberry, naoshima, round-2, setouchi, tier-2
+- Tags: bakeapple, benesse, critical-research, destination-art, naoshima, round-2, setouchi, tier-2
 
 ### SelfieGazeSocial2016
 
@@ -447,7 +454,7 @@ Anon. (2016). The 'Selfie Gaze' and 'Social Media Pilgrimage': Two Frames for Co
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/8ESZ8ARB) · `zotero://select/library/items/8ESZ8ARB`
 - DOI: https://doi.org/10.1007/978-3-319-28231-2_13
-- Tags: critical-research, glowberry, photography-adjacent, pilgrimage, round-2, tier-2, tourism
+- Tags: bakeapple, critical-research, photography-adjacent, pilgrimage, round-2, tier-2, tourism
 
 ### siegwartImpactsClimateSocial2018
 
@@ -455,8 +462,8 @@ Siegwart, Laura (2018). The Impacts of Climate and Social Changes on Cloudberry 
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/9M3FSR7U) · `zotero://select/library/items/9M3FSR7U`
 - DOI: https://doi.org/10.1007/s10745-018-0038-3
-- Note: Glowberry research note (vault, 2026). Anderson, Ford, and Way study bakeapple (Rubus chamaemorus / Appik) picking in Cartwright, southeastern Labrador, among a community with majority Indigenous ancestry recognized as people of NunatuKavut. They treat berry harvest as Indigen...
-- Tags: bakeapple, critical-research, ethnobiology, glowberry, handle-with-care, newfoundland, place, round-2, tier-2
+- Note: Bakeapple research note (vault, 2026). Anderson, Ford, and Way study bakeapple (Rubus chamaemorus / Appik) picking in Cartwright, southeastern Labrador, among a community with majority Indigenous ancestry recognized as people of NunatuKavut. They treat berry harvest as Indigen...
+- Tags: bakeapple, critical-research, ethnobiology, handle-with-care, newfoundland, place, round-2, tier-2
 
 ### singhFusedDepositionModelling2016
 
@@ -470,7 +477,7 @@ Anon. (n.d.). *Size matters*.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/QCF8RIXX) · `zotero://select/library/items/QCF8RIXX`
 - URL: https://www.salon.com/1998/12/22/oldenburg/
-- Note: Glowberry preliminary bibliography (2026). 16. Peter Plagens? / Salon — “Size matters” (1998 Oldenburg profile) *[confirm byline on read] Readable defense of monumental wackiness that stays warm rather than cold irony — tone check for Glowberry’s awe + humor lock.
+- Note: Bakeapple preliminary bibliography (2026). 16. Peter Plagens? / Salon — “Size matters” (1998 Oldenburg profile) *[confirm byline on read] Readable defense of monumental wackiness that stays warm rather than cold irony — tone check for Glowberry’s awe + humor lock.
 
 ### skrebowskiAnishKapoorsCloud2015
 
@@ -478,14 +485,14 @@ Skrebowski, Luke (2015). Anish Kapoor's Cloud Gate: Decentering the World. *Publ
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/Z6758BLQ) · `zotero://select/library/items/Z6758BLQ`
 - URL: https://www.academia.edu/41514849/_Anish_Kapoors_Cloud_Gate_Decentering_the_World_in_Public_Art_Place_Context_Participation_Lisbon_Institute_of_Art_History_Lisbon_2015_pp_41_51
-- Tags: cloud-gate, critical-research, glowberry, kapoor, public-art, read, reception, round-2, tier-1
+- Tags: bakeapple, cloud-gate, critical-research, kapoor, public-art, read, reception, round-2, tier-1
 
 ### stewartLongingNarrativesMiniature1984
 
 Stewart, Susan (1984). *On Longing: Narratives of the Miniature, the Gigantic, the Souvenir, the Collection*. Duke University Press.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/KYFIYBUJ) · `zotero://select/library/items/KYFIYBUJ`
-- Tags: critical-research, gigantic, glowberry, pilgrimage, round-2, scale, souvenir, theory, tier-1
+- Tags: bakeapple, critical-research, gigantic, pilgrimage, round-2, scale, souvenir, theory, tier-1
 
 ### svanbergGoldNaturesPantry2025
 
@@ -499,7 +506,7 @@ Anon. (n.d.). *Tourists Like Us. Critical Tourism and Contemporary Art*. Nida Ar
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/TFHNIAUK) · `zotero://select/library/items/TFHNIAUK`
 - URL: https://nidacolony.lt/tourists-like-us-critical-tourism-and-contemporary-art/
-- Note: Glowberry preliminary bibliography (2026). 28. *Tourists Like Us: Critical Tourism and Contemporary Art* (Nida / ECAV; VDA press) Theory kit for destination culture, tourist gaze, remote landscapes, hosting/displacing — pressures Glowberry’s “people travel to see” ambition pro...
+- Note: Bakeapple preliminary bibliography (2026). 28. *Tourists Like Us: Critical Tourism and Contemporary Art* (Nida / ECAV; VDA press) Theory kit for destination culture, tourist gaze, remote landscapes, hosting/displacing — pressures Glowberry’s “people travel to see” ambition pro...
 
 ### TyphoonbatteredYayoiKusama
 
@@ -507,7 +514,7 @@ Anon. (n.d.). *Typhoon-battered Yayoi Kusama pumpkin goes back on display in Jap
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/H6HMD4HA) · `zotero://select/library/items/H6HMD4HA`
 - URL: https://www.theartnewspaper.com/2022/10/10/typhoon-battered-yayoi-kusama-pumpkin-goes-back-on-display-in-japan
-- Note: Glowberry preliminary bibliography (2026). 2. The Art Newspaper — “Typhoon-battered Yayoi Kusama pumpkin goes back on display in Japan” (2022) + companion recovery piece (2021) Sharp reporting on hollow FRP failure modes, viral “object at sea” imagery, and owner commitment to ...
+- Note: Bakeapple preliminary bibliography (2026). 2. The Art Newspaper — “Typhoon-battered Yayoi Kusama pumpkin goes back on display in Japan” (2022) + companion recovery piece (2021) Sharp reporting on hollow FRP failure modes, viral “object at sea” imagery, and owner commitment to ...
 
 ### UrbanscapePareshMaitys
 
@@ -515,21 +522,21 @@ Anon. (n.d.). *Urbanscape: Paresh Maity's Giant Bronze Jackfruit Sculpture Is An
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/FH62DJN6) · `zotero://select/library/items/FH62DJN6`
 - URL: https://homegrown.co.in/homegrown-creators/urbanscape-paresh-maitys-giant-bronze-jackfruit-sculpture-is-an-exercise-in-absurdism
-- Note: Glowberry preliminary bibliography (2026). 12. Homegrown — “Urbanscape: Paresh Maity’s Giant Bronze Jackfruit Sculpture Is An Exercise In Absurdism” Absurdist scale + everyday staple made civic landmark; useful when arguing monumental fruit can carry serious local idiom, not o...
+- Note: Bakeapple preliminary bibliography (2026). 12. Homegrown — “Urbanscape: Paresh Maity’s Giant Bronze Jackfruit Sculpture Is An Exercise In Absurdism” Absurdist scale + everyday staple made civic landmark; useful when arguing monumental fruit can carry serious local idiom, not o...
 
 ### urryTouristGaze302011
 
 Urry, John; Larsen, Jonas (2011). *The Tourist Gaze 3.0*. SAGE.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/FIAAGE5A) · `zotero://select/library/items/FIAAGE5A`
-- Tags: critical-research, gaze, glowberry, photography-adjacent, pilgrimage, round-2, tier-2, tourism
+- Tags: bakeapple, critical-research, gaze, photography-adjacent, pilgrimage, round-2, tier-2, tourism
 
 ### vidlerArchitecturalUncannyEssays1992
 
 Vidler, Anthony (1992). *The Architectural Uncanny: Essays in the Modern Unhomely*. MIT Press.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/JDIRG4S3) · `zotero://select/library/items/JDIRG4S3`
-- Tags: architecture, critical-research, glowberry, round-2, scale, theory, tier-2, uncanny
+- Tags: architecture, bakeapple, critical-research, round-2, scale, theory, tier-2, uncanny
 
 ### wadelMarginalAdaptationsModernization1969
 
@@ -550,14 +557,14 @@ Anon. (n.d.). *Why is there a jackfruit sculpture outside Kolkata’s Victoria M
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/3W4XIE7F) · `zotero://select/library/items/3W4XIE7F`
 - URL: https://thenodmag.com/content/jackfruit-sculpture-kolkata-victoria-memorial-bengal-biennale
-- Note: Glowberry preliminary bibliography (2026). 13. The Nod Mag — “Why is there a jackfruit sculpture outside Kolkata’s Victoria Memorial?” Artist voice on childhood fruit → fort/city metaphor; public touching spikes and photographing — pilgrimage + tactility without glow.
+- Note: Bakeapple preliminary bibliography (2026). 13. The Nod Mag — “Why is there a jackfruit sculpture outside Kolkata’s Victoria Memorial?” Artist voice on childhood fruit → fort/city metaphor; public touching spikes and photographing — pilgrimage + tactility without glow.
 
 ### yamamuraYayoiKusamaInventing2015
 
 Yamamura, Midori (2015). *Yayoi Kusama: Inventing the Singular*. MIT Press.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/X8JE44NT) · `zotero://select/library/items/X8JE44NT`
-- Tags: critical-research, glowberry, japan, kusama, pop, round-2, soft-sculpture, tier-1
+- Tags: bakeapple, critical-research, japan, kusama, pop, round-2, soft-sculpture, tier-1
 
 ### YayoiKusamasYellow
 
@@ -565,7 +572,7 @@ Anon. (n.d.). *Yayoi Kusama’s yellow pumpkin is back on Naoshima Island, Japan
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/A4TSG8K3) · `zotero://select/library/items/A4TSG8K3`
 - URL: https://www.cnn.com/travel/article/kusama-naoshima-yellow-pumpkin-returns-intl-hnk
-- Note: Glowberry preliminary bibliography (2026). 1. CNN Travel — “Yayoi Kusama’s yellow pumpkin is back on Naoshima Island, Japan” (2022) Documents the typhoon loss, remake (~10% thicker shell), and stem recovery hook — coastal pilgrimage fruit as logistics + stewardship story, not ...
+- Note: Bakeapple preliminary bibliography (2026). 1. CNN Travel — “Yayoi Kusama’s yellow pumpkin is back on Naoshima Island, Japan” (2022) Documents the typhoon loss, remake (~10% thicker shell), and stem recovery hook — coastal pilgrimage fruit as logistics + stewardship story, not ...
 
 ### YellowPumpkinYayoi
 
@@ -573,7 +580,7 @@ Anon. (n.d.). *Yellow Pumpkin by Yayoi Kusama*.
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/JMTMXMQG) · `zotero://select/library/items/JMTMXMQG`
 - URL: https://www.setouchiexplorer.com/yellow-pumpkin/
-- Note: Glowberry preliminary bibliography (2026). 3. Setouchi Explorer — “Yellow Pumpkin by Yayoi Kusama” Argues the work’s power is synergy of object + pier + sea, not the pumpkin alone indoors — directly transferable to Glowberry’s landscape character brief.
+- Note: Bakeapple preliminary bibliography (2026). 3. Setouchi Explorer — “Yellow Pumpkin by Yayoi Kusama” Argues the work’s power is synergy of object + pier + sea, not the pumpkin alone indoors — directly transferable to Glowberry’s landscape character brief.
 
 ### yeoTeleportingJuMing
 
@@ -581,7 +588,7 @@ Yeo, Chee Kiong (n.d.). Teleporting Ju Ming — Yeo Chee Kiong (MoCA Taipei / Be
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/UK58E44F) · `zotero://select/library/items/UK58E44F`
 - URL: https://cheekiongyeo.com/teleporting-juming
-- Tags: 3d-printing, artist-reference, glowberry, rematerialization, teleporting, yeo
+- Tags: 3d-printing, artist-reference, bakeapple, rematerialization, teleporting, yeo
 
 ### yeoTeleportingNgEng
 
@@ -589,7 +596,7 @@ Yeo, Chee Kiong (n.d.). Teleporting Ng Eng Teng — Yeo Chee Kiong (Sculpture 20
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/AV7I6L58) · `zotero://select/library/items/AV7I6L58`
 - URL: https://sculpture2052.com/teleporting-ng-eng-teng
-- Tags: 3d-printing, artist-reference, glowberry, rematerialization, teleporting, yeo
+- Tags: 3d-printing, artist-reference, bakeapple, rematerialization, teleporting, yeo
 
 ### yeoTeleportingSeriesSculpture
 
@@ -597,7 +604,7 @@ Yeo, Chee Kiong (n.d.). Teleporting Series Sculpture — Yeo Public Sculpture (p
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/6ZBXYWQT) · `zotero://select/library/items/6ZBXYWQT`
 - URL: https://yeopublicsculpture.com/teleporting-series
-- Tags: artist-reference, glowberry, teleporting, yeo
+- Tags: artist-reference, bakeapple, teleporting, yeo
 
 ### yoshimotoPerformanceJapaneseWomen2005
 
@@ -605,7 +612,7 @@ Yoshimoto, Midori (2005). *Into Performance: Japanese Women Artists in New York*
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/QXME2PIW) · `zotero://select/library/items/QXME2PIW`
 - URL: https://www.jstor.org/stable/j.ctt5hjd48
-- Tags: critical-research, glowberry, japan, kusama, performance, round-2, soft-sculpture, tier-1
+- Tags: bakeapple, critical-research, japan, kusama, performance, round-2, soft-sculpture, tier-1
 
 ### yuanGTSRSubsurfaceScattering2026
 
@@ -613,4 +620,4 @@ Yuan, Youwen; Zhao, Xi (2026). *GTSR: Subsurface Scattering Awared 3D Gaussians 
 
 - Zotero: [web](https://www.zotero.org/adamsimms/items/VZX23Z75) · `zotero://select/library/items/VZX23Z75`
 - DOI: https://doi.org/10.48550/arXiv.2603.22036
-- Tags: 3d-scanning, computer-vision, gaussian-splatting, glowberry, method, translucency
+- Tags: 3d-scanning, bakeapple, computer-vision, gaussian-splatting, method, translucency

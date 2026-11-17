@@ -1,6 +1,6 @@
 # Agent notes
 
-Glowberry, developed in the open. One milestone or one issue per chat when the work is mechanical.
+Bakeapple, developed in the open. One milestone or one issue per chat when the work is mechanical.
 
 ## Hard rules
 
@@ -25,19 +25,19 @@ Docs policy and the decisions rule (work decision vs proposal choice vs option):
 
 ## GitHub
 
-Issues here are about the work. Applications, calls, residencies and their deadlines are tracked in the private studio repo, not here. Board: [Glowberry — R&D](https://github.com/users/adamsimms/projects/2). Issue titles have no kind prefix; kind and priority live on labels.
+Issues here are about the work. Applications, calls, residencies and their deadlines are tracked in the private studio repo, not here. Board: [Bakeapple](https://github.com/users/adamsimms/projects/2). Issue titles have no kind prefix; kind and priority live on labels.
 
 ## Private material
 
-Applications, organization and call records, the CV, contact details and private research notes live in the private repo **adamsimms/studio** (`~/Documents/GitHub/studio`; read its `AGENTS.md` first). This project's applications are `applications/<cycle>-<call>-glowberry/`. Nothing from studio comes into this repo unless an issue says so and Adam approved it. Never put a phone number or home address here, including inside PDFs; a global pre-commit guard blocks text.
+Applications, organization and call records, the CV, contact details and private research notes live in the private repo **adamsimms/studio** (`~/Documents/GitHub/studio`; read its `AGENTS.md` first). This project's applications are `applications/<cycle>-<call>-bakeapple/`. Nothing from studio comes into this repo unless an issue says so and Adam approved it. Never put a phone number or home address here, including inside PDFs; a global pre-commit guard blocks text.
 
 ## Project media
 
-Media (meshes, print files, renders, maquettes, visual tests, photos, video) never stays in this repo's ignored folders: they are not backed up. It goes to the project's media folder, `$MEDIA_DIR` (`30 STUDIO/32 PROJECTS/GLOWBERRY/`), a local outbox that a daily job copies to off-site storage and clears 14 days after the copies are verified. Older media is fetched from that storage, not read back from `$MEDIA_DIR`. Stages: `01-REFERENCES`, `02-STUDIES` (concept and visual exploration), `03-TESTS` (technical experiments, test prints), `04-ARTWORK` (the finished work's own media), `05-DOCUMENTATION` (one folder per activity, named like studio's). Inside 02 and 03, one dated folder per piece of work: `<YYYY-MM>-<NAME>`. `sketchpad/` is scratch.
+Media (meshes, print files, renders, maquettes, visual tests, photos, video) never stays in this repo's ignored folders: they are not backed up. It goes to the project's media folder, `$MEDIA_DIR` (`30 STUDIO/32 PROJECTS/BAKEAPPLE/`), a local outbox that a daily job copies to off-site storage and clears 14 days after the copies are verified. Older media is fetched from that storage, not read back from `$MEDIA_DIR`. Stages: `01-REFERENCES`, `02-STUDIES` (concept and visual exploration), `03-TESTS` (technical experiments, test prints), `04-ARTWORK` (the finished work's own media), `05-DOCUMENTATION` (one folder per activity, named like studio's). Inside 02 and 03, one dated folder per piece of work: `<YYYY-MM>-<NAME>`. `sketchpad/` is scratch.
 
 ## Bibliography / Zotero
 
-Zotero is the source library (public library, Glowberry collection `3Z9ZID5J`). `docs/BIBLIOGRAPHY.md` is generated: `node ~/Documents/GitHub/studio/scripts/zotero/build-bibliography.mjs glowberry --out docs/BIBLIOGRAPHY.md`; never edit it by hand. Writing to Zotero is publishing: only approved batches. Never query `~/Zotero/zotero.sqlite`. Do not invent citations.
+Zotero is the source library (public library, Bakeapple collection `3Z9ZID5J`). `docs/BIBLIOGRAPHY.md` is generated: `node ~/Documents/GitHub/studio/scripts/zotero/build-bibliography.mjs bakeapple --out docs/BIBLIOGRAPHY.md`; never edit it by hand. Writing to Zotero is publishing: only approved batches. Never query `~/Zotero/zotero.sqlite`. Do not invent citations.
 
 ## Support
 

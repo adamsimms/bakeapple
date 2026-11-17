@@ -163,7 +163,7 @@ def main():
     ap.add_argument("--height-mm", type=float, default=100.0)
     args = ap.parse_args()
     os.makedirs(OUT_DIR, exist_ok=True)
-    workdir = tempfile.mkdtemp(prefix="glowberry_print_")
+    workdir = tempfile.mkdtemp(prefix="bakeapple_print_")
 
     sources = {
         "scan": load(SCAN, gltf_y_up=True),

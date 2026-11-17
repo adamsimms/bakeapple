@@ -67,7 +67,7 @@ The 6 ft piece is outdoor-capable. An indoor or studio **lighting test** (for ex
 
 - **Grid** in the studio (plug-in primary). Ask which circuit; do not assume an outdoor outlet.
 - **Battery** so the fruit can sit without a cable, so you can practice dim-then-**allow dark**, and so a short evening outside does not depend on an outdoor receptacle.
-- **Optional bounded solar:** one foldable suitcase panel charging a LiFePO₄ power station that also AC-charges in the studio. Visible, portable, in overnight. Prefer **DC out** into the LED driver. Not hidden in the base, not a bermed enclosure, not the landscape plant. If the panel does not keep up, darkness is the Cloudberry result. Wind: foldable panels are sails; bring them in. Landscape PV stays [#21](https://github.com/adamsimms/glowberry/issues/21) / the eventual site.
+- **Optional bounded solar:** one foldable suitcase panel charging a LiFePO₄ power station that also AC-charges in the studio. Visible, portable, in overnight. Prefer **DC out** into the LED driver. Not hidden in the base, not a bermed enclosure, not the landscape plant. If the panel does not keep up, darkness is the Cloudberry result. Wind: foldable panels are sails; bring them in. Landscape PV stays [#21](https://github.com/adamsimms/bakeapple/issues/21) / the eventual site.
 - Peak LED for ~6 ft: treat as **between** the 50-60" and ~10 ft bands (order of **~30-80 W** until measured). An 8 h evening is still pack-scale, not array-scale.
 - Outside (if ever): splash-aware cabling, in overnight. Not IP65 landscape commission.
 
@@ -158,7 +158,7 @@ Use warm white + amber/orange (or tuned RGBW); diffuse so no hotspots; IP65+ out
 |--|-----|-----------------|
 | Idle power | ~2–5 W | Milliwatts–low watts |
 | Role | Cameras, cellular, servers | PWM heartbeat |
-| Fit | Future Cloudberry 2.0 sensing | **Glowberry v1** |
+| Fit | Future Cloudberry 2.0 sensing | **Bakeapple v1** |
 
 ---
 

@@ -1,6 +1,6 @@
 # Licenses
 
-Glowberry uses a **dual license**:
+Bakeapple uses a **dual license**:
 
 | Material | License |
 |----------|---------|

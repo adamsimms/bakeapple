@@ -1,4 +1,4 @@
-# Glowberry — materials (print, coatings, translucency)
+# Bakeapple — materials (print, coatings, translucency)
 
 Notes for keeping **3D printing** and **translucent flesh glow** under Newfoundland outdoor stress (UV, freeze–thaw, salt). Companion to [`BRIEF.md`](BRIEF.md), [`POWER.md`](POWER.md), [`RESEARCH_sculpture_precedents.md`](RESEARCH_sculpture_precedents.md).
 
@@ -8,7 +8,7 @@ Notes for keeping **3D printing** and **translucent flesh glow** under Newfoundl
 
 Raw FDM plastic at landscape scale is **not** a decade-proof coastal skin by itself. Print is excellent for **gallery pieces, masters/molds, and short outdoor tests**. Permanent NL survival usually means **coatings** and/or **print as core/tooling** under a weather face.
 
-Lighting vs ribs: see issue discussion on luminous volume vs structure ([#21](https://github.com/adamsimms/glowberry/issues/21)).
+Lighting vs ribs: see issue discussion on luminous volume vs structure ([#21](https://github.com/adamsimms/bakeapple/issues/21)).
 
 ---
 
@@ -19,7 +19,7 @@ Lighting vs ribs: see issue discussion on luminous volume vs structure ([#21](ht
 | **PETG** (clear / natural) | Good | Weak–medium | **Default** — toughness + printability + light pass |
 | **PC** (clear) | Good | Weak (UV) | More cold/impact toughness; harder large-format print |
 | **ASA** (natural/clear if available) | OK–good | Better UV than PETG | Often less “juicy” optically |
-| PLA / filled / opaque | Poor | No | Skip for Glowberry flesh |
+| PLA / filled / opaque | Poor | No | Skip for Bakeapple flesh |
 
 **Tint strategy:** print **clear or lightly amber**; put saturated orange in a **thin translucent coat** so UV hits the finish first.
 
@@ -75,7 +75,7 @@ Print master → mold → cast/spray **translucent FRP** (or shop outdoor system
 
 ---
 
-## Weight estimate — ~7 ft PETG Glowberry
+## Weight estimate — ~7 ft PETG Bakeapple
 
 **Assumption:** overall height ≈ **7 ft (2.13 m)** hollow berry (not a solid 7×7×7 ft cube). Density PETG ≈ **1.27 g/cm³**.
 
@@ -137,7 +137,7 @@ Use **~CAD $12–25 / kg** as a planning midpoint for translucent PETG on a seri
 | Outdoor-leaning, 8–15 mm + tinted translucent coat | **~$3k–10k** |
 | Heavy wall + generous coating waste | **~$8k–15k+** |
 
-Again: a shop **quote** for a finished 7 ft Glowberry will usually be **much higher** (machine hours, programming, finishing labor, risk). Raw materials are often a **minority** of the invoice.
+Again: a shop **quote** for a finished 7 ft Bakeapple will usually be **much higher** (machine hours, programming, finishing labor, risk). Raw materials are often a **minority** of the invoice.
 
 ---
 
@@ -145,7 +145,7 @@ Again: a shop **quote** for a finished 7 ft Glowberry will usually be **much hig
 
 The 6 ft pilgrimage shell is a **single print**. Split/join is not a live path.
 
-Scaled mesh envelope (500 mm × ≈3.66): about **64" × 66" × 72"** (≈1636 × 1684 × 1830 mm). Confirm bbox on the production file ([#16](https://github.com/adamsimms/glowberry/issues/16)).
+Scaled mesh envelope (500 mm × ≈3.66): about **64" × 66" × 72"** (≈1636 × 1684 × 1830 mm). Confirm bbox on the production file ([#16](https://github.com/adamsimms/bakeapple/issues/16)).
 
 | Opening | Width | Fit |
 |---------|-------|-----|

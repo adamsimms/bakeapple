@@ -1,6 +1,6 @@
-# Glowberry — sculpture precedents & physical stress-test
+# Bakeapple — sculpture precedents & physical stress-test
 
-Research notes for a large **glowing bakeapple** pilgrimage sculpture (**Glowberry**).
+Research notes for a large **glowing bakeapple** pilgrimage sculpture (**Bakeapple**).
 
 **Locked direction (see [`BRIEF.md`](BRIEF.md) + [`POWER.md`](POWER.md)):** semi-opaque translucent orange shell + internal heartbeat LEDs; touch/walk-around (no entry); ≤60" gallery plug/battery; ~10 ft outdoor solar (grid if available).
 
@@ -49,7 +49,7 @@ Research notes for a large **glowing bakeapple** pilgrimage sculpture (**Glowber
 | **Glow?** | No — daytime icon. Night presence is ambient / flood, not internal luminescence. |
 | **Links** | [CNN on reinstall](https://www.cnn.com/travel/article/kusama-naoshima-yellow-pumpkin-returns-intl-hnk); Benesse / Naoshima coverage |
 
-**Takeaways for Glowberry**
+**Takeaways for Bakeapple**
 
 - FRP is the default serious outdoor “giant fruit” material.  
 - Design **recovery hardware** (hook / lift points) into the stem end from day one.  
@@ -84,7 +84,7 @@ Research notes for a large **glowing bakeapple** pilgrimage sculpture (**Glowber
 
 ## 2b. Primary reference shortlist (artist-selected)
 
-These are the **best references** for Glowberry going forward:
+These are the **best references** for Bakeapple going forward:
 
 | Reference | Steal | Don’t copy |
 |-----------|-------|------------|
@@ -96,7 +96,7 @@ These are the **best references** for Glowberry going forward:
 
 **Material lock (artist):** semi-opaque **translucent glowing orange** — FRP / PETG / equivalent light-passing systems. Interaction: touch, sit near, walk around; **no entering**.
 
-**Villareal vs Glowberry:** Buckyball ([Madison Square Park](https://madisonsquarepark.org/art/exhibitions/leo-villareal-buckyball/)) is ~30 ft, two nested Fullerene spheres, 180 LED tubes, pixels every 1.2", custom chance-driven software — light-primary, almost no “body.” Useful if you ever pursue a **Cloudberry light-only** chapter. Glowberry keeps a **fruit body** that glows from within.
+**Villareal vs Bakeapple:** Buckyball ([Madison Square Park](https://madisonsquarepark.org/art/exhibitions/leo-villareal-buckyball/)) is ~30 ft, two nested Fullerene spheres, 180 LED tubes, pixels every 1.2", custom chance-driven software — light-primary, almost no “body.” Useful if you ever pursue a **Cloudberry light-only** chapter. Bakeapple keeps a **fruit body** that glows from within.
 
 ---
 
@@ -193,4 +193,4 @@ That can still be “you” (resettled instrument, beacon, Cloudberry 2.0 hardwa
 
 ---
 
-*Last updated: 2026-07-22 — for Glowberry concept development.*
+*Last updated: 2026-07-22 — for Bakeapple concept development.*

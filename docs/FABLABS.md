@@ -1,6 +1,6 @@
 # Montreal fab labs for small test prints
 
-Shortlist of Montreal-area fab labs for the desk test prints of small glowberries ([#61](https://github.com/adamsimms/glowberry/issues/61)): the labelled v17 test set in `models/print/ready_v17/` described in [`SCANNING.md`](SCANNING.md). Not for the 6 ft shell, which stays with Artefact ([`BRIEF.md`](BRIEF.md)). Picking and trying a lab is tracked in [#68](https://github.com/adamsimms/glowberry/issues/68).
+Shortlist of Montreal-area fab labs for the desk test prints of small glowberries ([#61](https://github.com/adamsimms/bakeapple/issues/61)): the labelled v17 test set in `models/print/ready_v17/` described in [`SCANNING.md`](SCANNING.md). Not for the 6 ft shell, which stays with Artefact ([`BRIEF.md`](BRIEF.md)). Picking and trying a lab is tracked in [#68](https://github.com/adamsimms/bakeapple/issues/68).
 
 Checked 2026-10-24 against each lab's own site where one exists, plus the [Fab Labs Québec wiki](https://wiki.fablabs.quebec/) for machine lists. Many fablabs.io entries are years out of date. Prices, hours, and machines change, so confirm by email before going.
 

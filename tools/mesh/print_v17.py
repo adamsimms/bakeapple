@@ -194,7 +194,7 @@ def run(spec, jobs, out_dir, colour_fn=None):
     ctx) returns per-vertex sRGB colours for the colour files; by default
     the amber to red-orange height gradient."""
     os.makedirs(out_dir, exist_ok=True)
-    workdir = tempfile.mkdtemp(prefix="glowberry_print_")
+    workdir = tempfile.mkdtemp(prefix="bakeapple_print_")
 
     raw, _, lay, (lo, hi, seam) = build(spec, HEIGHT_MM, voxel=HEIGHT_MM / 500)
     frame = (raw.vertices[:, 2].min(), np.ptp(raw.vertices[:, 2]))

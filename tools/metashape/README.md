@@ -2,7 +2,7 @@
 
 Replayable pipeline for the Pinchard's bakeapple reconstruction documented in [`docs/SCANNING.md`](../../docs/SCANNING.md).
 
-Frames, the Metashape project, point clouds, and mesh exports stay on disk. They are not in this repo. Layout (the scan package `30 STUDIO/32 PROJECTS/GLOWBERRY/04-ARTWORK/PROVENANCE-SCAN/` in off-site media storage, or a local working copy of it):
+Frames, the Metashape project, point clouds, and mesh exports stay on disk. They are not in this repo. Layout (the scan package `30 STUDIO/32 PROJECTS/BAKEAPPLE/04-ARTWORK/PROVENANCE-SCAN/` in off-site media storage, or a local working copy of it):
 
 ```
 TIFF-CHUNK-01/   TIFF-CHUNK-02/   TIFF-CHUNK-03/

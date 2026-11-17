@@ -1,9 +1,9 @@
-# Glowberry — fabrication inquiry  
+# Bakeapple — fabrication inquiry  
 **Studio Artefact · ~6 ft translucent shell · feasibility & rough range**
 
 **Artist:** Adam Simms · Montreal  
 **Email:** hello@adamsimms.xyz · **Web:** https://adamsimms.xyz  
-**Project:** https://github.com/adamsimms/glowberry  
+**Project:** https://github.com/adamsimms/bakeapple  
 **Date:** July 2026  
 
 *Feasibility brief for one size. Funding open; not a purchase order.*
@@ -12,7 +12,7 @@
 
 ## 1. What it is
 
-**Glowberry** is a monumental ripe **bakeapple** (cloudberry) — a pilgrimage sculpture with soft **heartbeat / breathing glow** in the flesh at dusk and night.
+**Bakeapple** is a monumental ripe **bakeapple** (cloudberry) — a pilgrimage sculpture with soft **heartbeat / breathing glow** in the flesh at dusk and night.
 
 | | |
 |--|--|
@@ -88,7 +88,7 @@ Daytime: readable fruit. **Night: the show.** Occasional dark nights OK outdoors
 ## 6. Process note
 
 Happy to co-design materials, hatch, and wall strategy after an initial read.  
-Open R&D: **https://github.com/adamsimms/glowberry**
+Open R&D: **https://github.com/adamsimms/bakeapple**
 
 Thank you —  
 **Adam Simms**  

@@ -113,7 +113,7 @@ def cavity_100mm():
 
 def main():
     os.makedirs(OUT_DIR, exist_ok=True)
-    workdir = tempfile.mkdtemp(prefix="glowberry_prep_")
+    workdir = tempfile.mkdtemp(prefix="bakeapple_prep_")
     cavity = None
 
     for src, out, mode, label, text_mm, flat in JOBS:

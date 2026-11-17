@@ -1,15 +1,15 @@
 ---
-description: Glowberry project constraints for agents
+description: Bakeapple project constraints for agents
 globs:
 alwaysApply: true
 ---
 
-# Glowberry
+# Bakeapple
 
 - Canonical docs live under `docs/`: BRIEF (with its decisions log), POWER, MATERIALS, SCANNING, FABLABS, INFLATABLE, RESEARCH. Start from `AGENTS.md`.
 - Private material (applications, named people, correspondence) lives in the private studio repo; never copy it here.
 - Do not invent permissions, quotes, or funding facts. No site outreach is sent before the pitch package exists.
-- Media (meshes, renders, Blender files, photos, moodboards) goes to the project's Drive folder (`MEDIA_DIR`), not into git. The provenance scan in `models/provenance/` is the one tracked binary.
+- Media (meshes, renders, Blender files, photos, moodboards) goes to the project's media folder (`MEDIA_DIR`, Outbox then Hetzner), not into git. The provenance scan in `models/provenance/` is the one tracked binary.
 - `sketchpad/` is scratch; only its README is tracked.
 - No phase dates in docs; dates live on issues.
 - Dual license: CC BY-NC 4.0 (docs/creative), MIT (software). See LICENSE.md.

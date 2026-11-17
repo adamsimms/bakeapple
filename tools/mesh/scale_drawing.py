@@ -8,7 +8,7 @@ Front, side and top outlines with overall dimensions in feet-inches and
 metres, and a 1.75 m figure for scale. Outlines come from rasterising the
 projected mesh and tracing its edge.
 
-Writes models/renders/v17/glowberry_v17_scale_drawing.{png,pdf}.
+Writes models/renders/v17/bakeapple_v17_scale_drawing.{png,pdf}.
 
 Run:
     uv run tools/mesh/scale_drawing.py [--height-m 1.83]
@@ -29,7 +29,7 @@ from skimage.measure import find_contours  # noqa: E402
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 MESH = os.path.join(ROOT, "models", "print", "berry_ref_a_studio_v17_subtle_100mm.stl")
-OUT = os.path.join(ROOT, "models", "renders", "v17", "glowberry_v17_scale_drawing")
+OUT = os.path.join(ROOT, "models", "renders", "v17", "bakeapple_v17_scale_drawing")
 AMBER, RED, INK, GREY = "#F79523", "#ED541F", "#2b2622", "#b9b4ae"
 PX_PER_M = 1200
 
@@ -115,7 +115,7 @@ def main():
         x = x1 + 0.75
     ax.set_xlim(-0.4, x - 0.3)
     ax.set_ylim(-0.6, max(H, D) + 0.35)
-    fig.suptitle("Glowberry: proposed sculpture, scale drawing (all views at the same scale)",
+    fig.suptitle("Bakeapple: proposed sculpture, scale drawing (all views at the same scale)",
                  x=0.02, ha="left", fontsize=11, color=INK)
     fig.text(0.02, 0.02, "Cloudberry form, translucent shell lit from inside. Overall size "
              f"{ft_in(W)} x {ft_in(D)} x {ft_in(H)} tall ({W:.2f} x {D:.2f} x {H:.2f} m).",

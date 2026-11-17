@@ -2,7 +2,7 @@
 
 Canonical brief for concept, fabrication (Studio Artefact), and systems. Budget open / may pursue funding.
 
-**Project title:** *Bakeapple* (a bakeapple / cloudberry pilgrimage sculpture; earlier working title Glowberry, still the repo and file name).
+**Project title:** *Bakeapple* (a bakeapple / cloudberry pilgrimage sculpture; earlier working title Glowberry).
 
 | Companion docs                                                         |                                                                    |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------ |
@@ -102,10 +102,10 @@ When publishing, expect roughly:
 
 | File                                 | Use                                               |
 | ------------------------------------ | ------------------------------------------------- |
-| `glowberry_master_500mm.stl`         | Production mesh (~484k tris), sent by file transfer |
-| `glowberry_master_500mm_preview.stl` | Lighter preview                                   |
-| `glowberry_master_500mm.obj`         | Alternate format                                  |
-| `glowberry.blend`                    | Blender source (optional)                         |
+| `bakeapple_master_500mm.stl`         | Production mesh (~484k tris), sent by file transfer |
+| `bakeapple_master_500mm_preview.stl` | Lighter preview                                   |
+| `bakeapple_master_500mm.obj`         | Alternate format                                  |
+| `bakeapple.blend`                    | Blender source (optional)                         |
 | Berry / site refs                    | Curated references (added intentionally later)    |
 
 **Units:** meters; master height **500 mm**. Scale uniformly per tier.
@@ -164,7 +164,7 @@ Paste-ready answers + PDF brief: [`docs/artefact/`](artefact/).
 
 Form fields they ask for:
 
-| Field              | Suggested for Glowberry                                                                                                            |
+| Field              | Suggested for Bakeapple                                                                                                            |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
 | Project type       | **3D printing**                                                                                                                    |
 | Delivery           | **In more than six months** (exploratory / grant-dependent)                                                                        |
@@ -184,9 +184,9 @@ Form fields they ask for:
 
 ### Form body (short — ~6 ft)
 
-**Specifically:** Quote / feasibility — Glowberry, translucent glowing bakeapple, **~6 ft**
+**Specifically:** Quote / feasibility — Bakeapple, translucent glowing bakeapple, **~6 ft**
 
-Hello, Adam Simms, Montreal. Developing **Glowberry** (bakeapple / cloudberry pilgrimage sculpture) with soft internal heartbeat glow. Touchable; walk-around; no entry. NL outdoor site TBD. Funding open. Please treat as **feasibility + rough range** for **one size: ~6 ft (≈1.8 m)** tall, scaled from a 500 mm manifold mesh (≈3.66×). Prefer translucent PETG ± translucent outdoor coat (or FRP if needed); hatch at stem; LEDs may be separate scope. **One-piece print required** (20 m³ class). Not a split/join. Cost range, wall/mass, coastal weather finish, timeline. Brief PDF + refs attached; full STL on WeTransfer on request. https://github.com/adamsimms/glowberry. Thanks, Adam · hello@adamsimms.xyz · [Phone]
+Hello, Adam Simms, Montreal. Developing **Bakeapple** (bakeapple / cloudberry pilgrimage sculpture) with soft internal heartbeat glow. Touchable; walk-around; no entry. NL outdoor site TBD. Funding open. Please treat as **feasibility + rough range** for **one size: ~6 ft (≈1.8 m)** tall, scaled from a 500 mm manifold mesh (≈3.66×). Prefer translucent PETG ± translucent outdoor coat (or FRP if needed); hatch at stem; LEDs may be separate scope. **One-piece print required** (20 m³ class). Not a split/join. Cost range, wall/mass, coastal weather finish, timeline. Brief PDF + refs attached; full STL on WeTransfer on request. https://github.com/adamsimms/bakeapple. Thanks, Adam · hello@adamsimms.xyz · [Phone]
 
 ---
 
@@ -209,11 +209,12 @@ Dates live on the [R&D board](https://github.com/users/adamsimms/projects/2), no
 - Exact NL site + permissions
 - Outdoor power at the final site: solar-only vs solar+grid when shore power exists
 - Panel hiding strategy on site
-- Alternate quotes beside Artefact ([#37](https://github.com/adamsimms/glowberry/issues/37)): [AllPrototype](https://allprototype.com/3d-scanning-montreal/), [USIMM](https://www.usimm.ca/en/)
+- Alternate quotes beside Artefact ([#37](https://github.com/adamsimms/bakeapple/issues/37)): [AllPrototype](https://allprototype.com/3d-scanning-montreal/), [USIMM](https://www.usimm.ca/en/)
 
 ## 10. Decisions log
 
 - 2026-11-09: Title is *Bakeapple* (was Glowberry). The repo and file names stay `glowberry` until a rename is decided.
+- 2026-11-17: Repo, slug, media path, Zotero collection name, and studio records renamed `glowberry` → `bakeapple` (studio#156).
 - 2026-11-09: Every small berry (studies, residency batches, the 10 to 16 in lit pieces) is an edition; solar printing with a logged energy record is part of how they are made. Section 6, `POWER.md`.
 - 2026-11-09: The artist installs the LEDs after the shell arrives (was open: whether Artefact installs them).
 - 2026-11-09: Concept line, naming ethics, family as collaborators. Section 1.

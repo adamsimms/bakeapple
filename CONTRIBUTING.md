@@ -1,12 +1,12 @@
-# Contributing to Glowberry
+# Contributing to Bakeapple
 
-Glowberry is an open, exploratory public-art project. Contributions are welcome from artists, fabricators, Newfoundland community members, curious public, and software/hardware helpers — and from coding agents working in this repo.
+Bakeapple is an open, exploratory public-art project. Contributions are welcome from artists, fabricators, Newfoundland community members, curious public, and software/hardware helpers — and from coding agents working in this repo.
 
 ## Before you start
 
 1. Read the [README](README.md) and [docs/BRIEF.md](docs/BRIEF.md).
 2. Review the [Code of Conduct](CODE_OF_CONDUCT.md).
-3. Check [open issues](https://github.com/adamsimms/glowberry/issues), [Discussions](https://github.com/adamsimms/glowberry/discussions), and the Projects board.
+3. Check [open issues](https://github.com/adamsimms/bakeapple/issues), [Discussions](https://github.com/adamsimms/bakeapple/discussions), and the Projects board.
 4. For large or sensitive changes (site outreach, shop contact, funding), open an issue first.
 
 ## How to help
@@ -21,7 +21,7 @@ Glowberry is an open, exploratory public-art project. Contributions are welcome 
 
 ### Labels & priority
 
-Board: [Glowberry — R&D](https://github.com/users/adamsimms/projects/2) (Priority field: Urgent / High / Medium / Low).
+Board: [Bakeapple](https://github.com/users/adamsimms/projects/2) (Priority field: Urgent / High / Medium / Low).
 
 | Kind | Labels |
 |------|--------|

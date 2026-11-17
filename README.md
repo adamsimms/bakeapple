@@ -1,12 +1,12 @@
 # Bakeapple
 
-Monumental ripe **bakeapple** (cloudberry) as a glowing sculpture, with small lit editions alongside — concept, feasibility notes, and open development toward a Newfoundland landmark. (Earlier working title: Glowberry, still the repo name.)
+Monumental ripe **bakeapple** (cloudberry) as a glowing sculpture, with small lit editions alongside — concept, feasibility notes, and open development toward a Newfoundland landmark. (Earlier working title: Bakeapple, still the repo name.)
 
-Meshes, print files, renders and photos are not in the repo; they live in the project's media folder (`MEDIA_DIR`, see `.env.example`). The provenance scan in `models/provenance/` is the one tracked binary. Sources are in the public Zotero library (Glowberry collection).
+Meshes, print files, renders and photos are not in the repo; they live in the project's media folder (`MEDIA_DIR`, see `.env.example`). The provenance scan in `models/provenance/` is the one tracked binary. Sources are in the public Zotero library (Bakeapple collection).
 
 **Artist:** [Adam Simms](https://adamsimms.xyz)
 
-Glowberry continues a practice lineage with [*Cloudberry*](https://github.com/adamsimms/cloudberry), *Light House*, and related works: presence, beacon, resettlement, and return to Pinchard’s.
+Bakeapple continues a practice lineage with [*Cloudberry*](https://github.com/adamsimms/cloudberry), *Light House*, and related works: presence, beacon, resettlement, and return to Pinchard’s.
 
 ## What it is
 
@@ -26,16 +26,16 @@ Canonical brief and companions:
 
 ## GitHub Projects
 
-Active board: **[Glowberry — R&D](https://github.com/users/adamsimms/projects/2)** (concept, site, feasibility, funding package; Milestones 0–2).
+Active board: **[Bakeapple](https://github.com/users/adamsimms/projects/2)** (concept, site, feasibility, funding package; Milestones 0–2).
 
 Noted for later (not created yet):
 
 | Board | When |
 |-------|------|
-| **Glowberry — Fabrication** | Mesh, shops, FRP/PETG, solar, stage/base, install |
-| **Glowberry — Editions** | Small / large / inflatable delivery tracks |
-| **Glowberry — Outputs** | Statements, visuals, public documentation |
-| **Glowberry — Web** | Public site — only if/when building one |
+| **Bakeapple — Fabrication** | Mesh, shops, FRP/PETG, solar, stage/base, install |
+| **Bakeapple — Editions** | Small / large / inflatable delivery tracks |
+| **Bakeapple — Outputs** | Statements, visuals, public documentation |
+| **Bakeapple — Web** | Public site — only if/when building one |
 
 ## Contributing
 
@@ -52,4 +52,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and the [Code of Conduct](CODE_OF_CONDUCT
 
 Use [`CITATION.cff`](CITATION.cff) or:
 
-> Simms, Adam. (2026). *Glowberry* (v0.1.0). https://github.com/adamsimms/glowberry
+> Simms, Adam. (2026). *Bakeapple* (v0.1.0). https://github.com/adamsimms/bakeapple

@@ -8,7 +8,7 @@ Locked landscape character (`docs/BRIEF.md` §2): inland of shore / rock or clif
 
 Not decided. Fogo Island and the Bonavista Peninsula are **regions**, not parcels; the Avalon names are single places. Working lenses: public access / parking, permissions path, power (grid vs solar), wind / salt, stewardship. Do not cold-contact landowners (`CONTRIBUTING.md`).
 
-**Send gate:** no asks until the pitch package exists: mesh origin, test prints, Artefact quote, stage/platform, 2D sketches, Figma pitch ([#16](https://github.com/adamsimms/glowberry/issues/16), [#61](https://github.com/adamsimms/glowberry/issues/61), [#37](https://github.com/adamsimms/glowberry/issues/37), [#62](https://github.com/adamsimms/glowberry/issues/62), [#17](https://github.com/adamsimms/glowberry/issues/17), [#63](https://github.com/adamsimms/glowberry/issues/63)). The map is recorded. Sending is [#34](https://github.com/adamsimms/glowberry/issues/34). Nothing is sent.
+**Send gate:** no asks until the pitch package exists: mesh origin, test prints, Artefact quote, stage/platform, 2D sketches, Figma pitch ([#16](https://github.com/adamsimms/bakeapple/issues/16), [#61](https://github.com/adamsimms/bakeapple/issues/61), [#37](https://github.com/adamsimms/bakeapple/issues/37), [#62](https://github.com/adamsimms/bakeapple/issues/62), [#17](https://github.com/adamsimms/bakeapple/issues/17), [#63](https://github.com/adamsimms/bakeapple/issues/63)). The map is recorded. Sending is [#34](https://github.com/adamsimms/bakeapple/issues/34). Nothing is sent.
 
 ## Dropped
 
@@ -108,7 +108,7 @@ Not decided. Fogo Island and the Bonavista Peninsula are **regions**, not parcel
 
 ## What this is not
 
-- A send ([#34](https://github.com/adamsimms/glowberry/issues/34); waits on the pitch package).
-- Full site scoring ([#12](https://github.com/adamsimms/glowberry/issues/12); parked).
+- A send ([#34](https://github.com/adamsimms/bakeapple/issues/34); waits on the pitch package).
+- Full site scoring ([#12](https://github.com/adamsimms/bakeapple/issues/12); parked).
 
 ---

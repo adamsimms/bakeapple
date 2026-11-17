@@ -1,6 +1,6 @@
 # Sketchpad
 
-Local playground for rough notes, draft Markdown, images, and experiments related to Glowberry.
+Local playground for rough notes, draft Markdown, images, and experiments related to Bakeapple.
 
 **Everything in this folder is gitignored except this README.** Drop files here freely — they stay on your machine and remain available to Cursor as context, but they will not be committed.
 
